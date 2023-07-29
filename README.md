@@ -1,4 +1,4 @@
-# PrevisaoIPCAArima
+# Previsao do IPCA utilizando modelo Arima com Python
 Previsão do IPCA utilizando modelo arima.
 Para informações, recomendo ler o post no medium
 
